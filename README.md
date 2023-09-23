@@ -6,4 +6,5 @@ A new Flutter project.
 
 # フラッター学習
 ## 第一回目
-# I_Am_Rich_App_Made_With_Flutter
+### 基本的な概念
+### 画像の配置のやり方
